@@ -89,19 +89,6 @@ thead {
   text-decoration: none;
 }
 
-#audio {
-  position: fixed;
-  bottom: 0%;
-  right: 0%;
-}
-
-#video {
-  position: absolute;
-  height: 350px;
-  left: 50%;
-  bottom: 0%;
-}
-
 #name {
   position: absolute;
   top: 0%;
